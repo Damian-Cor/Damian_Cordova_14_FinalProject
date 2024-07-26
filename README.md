@@ -15,3 +15,7 @@ Justing (Seat #16) - Justin was able to improve on the vizualization of the resu
 Damian (Me) conducted some research on the topic, presenting the motivation for the topic, the issues surrounding the topic, and presenting the vizualization of the original data. Eason presented the code and the process of creating and calculating the predictions, as well as presenting a vizualization of the results. 
 Justin presented the reults, explaining what it means in a global context, and presenting factors that could've affected the data. All 3 of us presented the conclusion, giving our final takeaways or thoughts on the project process,
 MATLAB, and the course as a whole.
+
+### **Side Note**
+
+The code might have to run twice to project the results that we used. This is because of an oversight, and not assigning a starting point to the curve fit. Apologise for the miss convenience.
