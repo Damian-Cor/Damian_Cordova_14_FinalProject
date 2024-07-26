@@ -18,4 +18,4 @@ MATLAB, and the course as a whole.
 
 ### **Side Note**
 
-The code might have to run twice to project the results that we used. This is because of an oversight, and not assigning a starting point to the curve fit. Apologise for the miss convenience.
+The code might have to run twice to project the results that we used. This is because of an oversight, not assigning a starting point to the curve fit. Apologise for the miss convenience.
